@@ -1,0 +1,5 @@
+allure-results/
+screenshots/
+target/
+xmlresults.xml
+ProtractorTestReport.html
